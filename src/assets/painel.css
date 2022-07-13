@@ -1,0 +1,21 @@
+h1 {
+    color: white;
+}
+
+#painel {
+    color: white;
+}
+
+#chart {
+    color:white;
+}
+
+.svg {
+    transform: rotate(90deg);
+    width: 10px;
+}
+.variacao{
+    color:red;
+    font-weight: bold;
+    font-size:10px;
+}
