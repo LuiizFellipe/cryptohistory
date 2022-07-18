@@ -59,7 +59,7 @@ export default {
   components: {},
   data() {
     return {
-      Titulo: "Painel",
+      Titulo: "Painel Atualizado",
       APIJSON: [],
       arrPrice: [],
       arrDate: [],
@@ -87,7 +87,7 @@ export default {
         url: serv,
       })
         .then((API) => {
-          //   console.log(API);
+         // console.log(API);
           this.APIJSON = API.data.data;
         })
         .catch(function (error) {
@@ -110,7 +110,6 @@ export default {
   },
 };
 </script>
-
 <style>
 @import url("../assets/painel.css");
 </style>
