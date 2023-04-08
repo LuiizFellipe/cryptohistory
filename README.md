@@ -1,24 +1,18 @@
-# cryptohistory
+# Crypto History
 
-## Project setup
-```
-npm install
-```
+## Projeto
+Projeto criado para acompanhamento e gerenciamento de crypto moedas (Em desenolvimento)
 
-### Compiles and hot-reloads for development
-```
+AXIOS + VueJs + BootstrapVue
+
+## Requisitos
+
+Node.js
+VueCLI
+
+## Configuração
+
+```js
+
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
